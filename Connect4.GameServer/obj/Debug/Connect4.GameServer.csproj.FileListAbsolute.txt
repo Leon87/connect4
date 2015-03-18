@@ -1,0 +1,10 @@
+c:\Users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.GameServer\bin\Debug\Connect4.GameServer.dll
+c:\Users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.GameServer\bin\Debug\Connect4.GameServer.pdb
+c:\Users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.GameServer\obj\Debug\Connect4.GameServer.csprojResolveAssemblyReference.cache
+c:\Users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.GameServer\obj\Debug\Connect4.GameServer.dll
+c:\Users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.GameServer\obj\Debug\Connect4.GameServer.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.GameServer\bin\Debug\Connect4.GameServer.dll
+C:\Users\Susie\Desktop\New folder\Connect4.GameServer\bin\Debug\Connect4.GameServer.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.GameServer\obj\Debug\Connect4.GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Susie\Desktop\New folder\Connect4.GameServer\obj\Debug\Connect4.GameServer.dll
+C:\Users\Susie\Desktop\New folder\Connect4.GameServer\obj\Debug\Connect4.GameServer.pdb

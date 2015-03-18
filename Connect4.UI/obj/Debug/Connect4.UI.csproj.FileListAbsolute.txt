@@ -1,0 +1,16 @@
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\bin\Debug\Connect4.UI.exe.config
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\obj\Debug\Connect4.UI.csprojResolveAssemblyReference.cache
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\bin\Debug\Connect4.UI.exe
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\bin\Debug\Connect4.UI.pdb
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\bin\Debug\Connect4.GameServer.dll
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\bin\Debug\Connect4.GameServer.pdb
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\obj\Debug\Connect4.UI.exe
+c:\users\adrian.booth\documents\visual studio 2013\Projects\Connect4.UI\Connect4.UI\obj\Debug\Connect4.UI.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.UI\bin\Debug\Connect4.UI.exe.config
+C:\Users\Susie\Desktop\New folder\Connect4.UI\obj\Debug\Connect4.UI.exe
+C:\Users\Susie\Desktop\New folder\Connect4.UI\obj\Debug\Connect4.UI.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.UI\bin\Debug\Connect4.UI.exe
+C:\Users\Susie\Desktop\New folder\Connect4.UI\bin\Debug\Connect4.UI.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.UI\bin\Debug\Connect4.GameServer.dll
+C:\Users\Susie\Desktop\New folder\Connect4.UI\bin\Debug\Connect4.GameServer.pdb
+C:\Users\Susie\Desktop\New folder\Connect4.UI\obj\Debug\Connect4.UI.csprojResolveAssemblyReference.cache
